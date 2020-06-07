@@ -1,4 +1,4 @@
-package com.Afif.tugasproject4.model;
+package com.Hairiyah.tugasproject4.model;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.Afif.tugasproject4.adapter;
+package com.Hairiyah.tugasproject4.adapter;
 
 import android.content.Context;
 import android.content.Intent;
@@ -11,11 +11,11 @@ import androidx.recyclerview.widget.GridLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.Afif.tugasproject4.R;
-import com.Afif.tugasproject4.helper.MoviesRecyclerViewHolder;
-import com.Afif.tugasproject4.model.Movies;
-import com.Afif.tugasproject4.repository.MovieRepository;
-import com.Afif.tugasproject4.view.Detail;
+import com.Hairiyah.tugasproject4.R;
+import com.Hairiyah.tugasproject4.helper.MoviesRecyclerViewHolder;
+import com.Hairiyah.tugasproject4.model.Movies;
+import com.Hairiyah.tugasproject4.repository.MovieRepository;
+import com.Hairiyah.tugasproject4.view.Detail;
 import com.google.android.material.snackbar.Snackbar;
 
 import java.util.ArrayList;

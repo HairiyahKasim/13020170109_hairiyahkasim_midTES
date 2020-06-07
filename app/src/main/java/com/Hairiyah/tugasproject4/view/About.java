@@ -1,4 +1,4 @@
-package com.Afif.tugasproject4.view;
+package com.Hairiyah.tugasproject4.view;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.view.MenuItem;
 
 import com.bumptech.glide.Glide;
-import com.Afif.tugasproject4.R;
+import com.Hairiyah.tugasproject4.R;
 
 import de.hdodenhof.circleimageview.CircleImageView;
 

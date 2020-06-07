@@ -1,4 +1,4 @@
-package com.Afif.tugasproject4.model;
+package com.Hairiyah.tugasproject4.model;
 
 public class CastAndCrew {
     String imageUrl;

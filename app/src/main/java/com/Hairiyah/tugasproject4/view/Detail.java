@@ -1,4 +1,4 @@
-package com.Afif.tugasproject4.view;
+package com.Hairiyah.tugasproject4.view;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -12,9 +12,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.Afif.tugasproject4.R;
-import com.Afif.tugasproject4.adapter.CastAndCrewAdapter;
-import com.Afif.tugasproject4.repository.MovieRepository;
+import com.Hairiyah.tugasproject4.R;
+import com.Hairiyah.tugasproject4.adapter.CastAndCrewAdapter;
+import com.Hairiyah.tugasproject4.repository.MovieRepository;
 
 public class Detail extends AppCompatActivity {
     private Intent intent;

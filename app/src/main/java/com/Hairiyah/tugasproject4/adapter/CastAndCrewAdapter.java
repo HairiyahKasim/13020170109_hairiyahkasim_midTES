@@ -1,4 +1,4 @@
-package com.Afif.tugasproject4.adapter;
+package com.Hairiyah.tugasproject4.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -9,9 +9,9 @@ import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
-import com.Afif.tugasproject4.R;
-import com.Afif.tugasproject4.helper.CastAndCrewViewHolder;
-import com.Afif.tugasproject4.model.CastAndCrew;
+import com.Hairiyah.tugasproject4.R;
+import com.Hairiyah.tugasproject4.helper.CastAndCrewViewHolder;
+import com.Hairiyah.tugasproject4.model.CastAndCrew;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.Afif.tugasproject4.helper;
+package com.Hairiyah.tugasproject4.helper;
 
 import android.view.View;
 import android.widget.ImageView;
@@ -7,7 +7,7 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.Afif.tugasproject4.R;
+import com.Hairiyah.tugasproject4.R;
 
 public class CastAndCrewViewHolder extends RecyclerView.ViewHolder {
     public ImageView imageView;

@@ -1,4 +1,4 @@
-package com.Afif.tugasproject4.helper;
+package com.Hairiyah.tugasproject4.helper;
 
 import android.view.View;
 import android.widget.Button;
@@ -9,7 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.cardview.widget.CardView;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.Afif.tugasproject4.R;
+import com.Hairiyah.tugasproject4.R;
 
 public class MoviesRecyclerViewHolder extends RecyclerView.ViewHolder {
     public ImageView image;

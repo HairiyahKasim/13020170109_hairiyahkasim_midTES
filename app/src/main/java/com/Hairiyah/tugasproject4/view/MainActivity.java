@@ -1,4 +1,4 @@
-package com.Afif.tugasproject4.view;
+package com.Hairiyah.tugasproject4.view;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -12,9 +12,9 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import com.Afif.tugasproject4.R;
-import com.Afif.tugasproject4.adapter.MovieRecyclerAdapter;
-import com.Afif.tugasproject4.repository.MovieRepository;
+import com.Hairiyah.tugasproject4.R;
+import com.Hairiyah.tugasproject4.adapter.MovieRecyclerAdapter;
+import com.Hairiyah.tugasproject4.repository.MovieRepository;
 
 public class MainActivity extends AppCompatActivity {
     private RecyclerView recyclerView;

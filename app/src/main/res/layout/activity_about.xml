@@ -22,7 +22,7 @@
         android:layout_marginTop="24dp"
         android:gravity="center"
         android:lineSpacingExtra="8dp"
-        android:text="@string/AfifSaifuddin_n13020170209_nMP1"
+        android:text="@string/HairiyahKasim_n13020170109_nMP1"
         android:textSize="16sp"
         android:textStyle="bold" />
 
